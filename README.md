@@ -15,7 +15,7 @@
 - 📱 **Expert in Modern Android Development using MVVM**  
 - ⚙ **Skilled in Jetpack Compose, Ktor, Firebase, and Clean Architecture**  
 - 🎯 Currently **learning Kotlin Multiplatform & Jetpack Compose**  
-- 📞 Reach me at **+91 7431907651**  
+- 📞 Reach me at **swarupsen080@gmail.com**  
 - ⚡ Fun Fact: I can solve **complex bugs faster than I can solve a Rubik’s Cube!**  
 
 ---
