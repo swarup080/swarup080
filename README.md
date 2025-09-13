@@ -1,61 +1,68 @@
-<!-- Header Section with GIF -->
+<!-- Classic Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=250&section=header&text=Swarup%20Sen%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%202+%20Years%20Experience&descAlignY=55&descAlign=50" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Swarup Sen</h1>
-<h3 align="center">🚀 Android Developer | B.Tech CSE (2025) | 1 Year Experience</h3>
+---
+
+<h1 align="center">👋 Hi, I'm Swarup Sen</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Android+Developer;📱+2%2B+Years+Experience;🎯+10%2B+Apps+on+Play+Store;🌍+Managed+50M%2B+User+Base+App">
+</h3>
 
 ---
 
 ## 🌟 About Me  
 
 - 🎓 **B.Tech in Computer Science & Engineering** (Graduating in 2025)  
-- 💼 **1 Year Experience** in Android Development  
-- 📱 **Expert in Modern Android Development using MVVM**  
-- ⚙ **Skilled in Jetpack Compose, Ktor, Firebase, and Clean Architecture**  
-- 🎯 Currently **learning Kotlin Multiplatform & Jetpack Compose**  
-- 📞 Reach me at **swarupsen080@gmail.com**  
-- ⚡ Fun Fact: I can solve **complex bugs faster than I can solve a Rubik’s Cube!**  
+- 💼 **2+ Years of Experience** in Android Development  
+- 📱 **Published 10+ Apps** on Google Play Store  
+- 🌍 **Scaled & Managed an Android App with 50M+ Users**  
+- ⚙ **Expert in MVVM, Jetpack Compose, Firebase, Ktor, Clean Architecture**  
+- 🚀 Passionate about **scalable, user-friendly mobile apps**  
+- 🎯 Currently diving into **Kotlin Multiplatform & Advanced Compose**  
+- 📞 Contact: **swarupsen080@gmail.com**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Languages & Frameworks**  
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+### 🚀 Languages & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,c" />
 </p>
 
-### **Android Development**  
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-%23007396.svg?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/RoomDB-%23FF9800.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge">
+### 📱 Android Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/MVVM-Architecture-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RoomDB-FF9800?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
-### **Backend & Databases**  
-<p>
-  <img src="https://img.shields.io/badge/Ktor-%231B1F23.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
+### ☁ Backend & Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
 
-### **DevOps & Publishing**  
-<p>
-  <img src="https://img.shields.io/badge/Google_Play_Console-34A853.svg?style=for-the-badge&logo=google-play&logoColor=white">
+### ⚙ DevOps & Publishing  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=googlecloud,github,git" />
+  <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=google-play&logoColor=white">
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarup080&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarup080&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarup080&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarup080&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarup080&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
@@ -63,28 +70,29 @@
 ## 🚀 Featured Projects  
 
 ### 🔹 **Quick Cart Ecommerce App**  
-📌 *A feature-rich eCommerce app designed for seamless shopping*  
-🛠 *Technologies Used: Jetpack Compose, Firebase, Ktor*  
+📌 *Feature-rich eCommerce app for smooth shopping*  
+🛠 *Jetpack Compose, Firebase, Ktor*  
 
 ### 🔹 **Image to Text Converter App**  
-📌 *An AI-powered app that extracts text from images*  
-🛠 *Technologies Used: Room DB, MySQL, XML*  
+📌 *AI-powered app extracting text from images*  
+🛠 *Room DB, MySQL, XML*  
+
+### 🔹 **Enterprise App (50M+ Users)**  
+📌 *Scaled & optimized a high-traffic Android application*  
+🛠 *Kotlin, MVVM, Firebase, CI/CD Pipelines*  
 
 ---
 
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/swarup-sen-069879257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/swarup080" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:swarupsen080@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="tel:+917431907651">
-    <img src="https://img.shields.io/badge/Call Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -92,11 +100,13 @@
 
 ## 📢 Fun Facts  
 
-✨ **"Building the Future, One Line of Code at a Time!"**  
-🎵 Love coding while listening to **Lofi beats 🎧**  
-💡 Favorite IDE: **Android Studio**  
-🐱 Always looking for **collaborations** on cool Android projects!  
+✨ *"Building the Future, One Line of Code at a Time!"*  
+🎵 Love coding with **Lofi beats 🎧**  
+💡 IDE of choice: **Android Studio**  
+🤝 Always open for **collaborations on cool Android projects!**  
 
 ---
 
-⭐ *If you like my work, consider giving my repositories a star! 🌟*  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=120&section=footer" />
+</p>
