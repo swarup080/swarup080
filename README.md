@@ -14,7 +14,7 @@
 
 ## 🌟 About Me  
 
-- 🎓 **B.Tech in Computer Science & Engineering** (Graduating in 2025)  
+- 🎓 **B.Tech in Computer Science & Engineering** (Graduated in 2025)  
 - 💼 **2+ Years of Experience** in Android Development  
 - 📱 **Published 10+ Apps** on Google Play Store  
 - 🌍 **Scaled & Managed an Android App with 50M+ Users**  
